@@ -3,7 +3,9 @@
 ## Install/Deploy
 This application can run in microservice envrionment along with docker or run as monolithic application.
 
-Modify DB connection string in the ZeissContext file. Use dotnet run command to run as a dotnet webservice.
+Modify DB connection string in the appsettings.json file. 
+
+Use dotnet run command to run as a dotnet webservice.
 
 ## Improvements To Be Done
 1. LogService
