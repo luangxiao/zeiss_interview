@@ -19,7 +19,6 @@ builder.Services.AddScoped<IAsyncRepository<Socket, string>, GenericRepository<S
 builder.Services.AddScoped<IAsyncRepository<Machine, string>, GenericRepository<Machine, string>>();
 
 //Services
-builder.Services.AddScoped<ISocketService, SocketService>();
 builder.Services.AddScoped<IMachineStatusService, MachineStatusService>();
 
 
