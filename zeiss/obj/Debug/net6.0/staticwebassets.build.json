@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5GHJEj1vGmJfPoHxtUX6lA7Vycfrh+2xZaXa5tGSNFI=",
+  "Source": "zeiss",
+  "BasePath": "_content/zeiss",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "zeiss\\wwwroot",
+      "Source": "zeiss",
+      "ContentRoot": "C:\\Users\\z0041ndy\\Desktop\\zeiss\\zeiss\\wwwroot\\",
+      "BasePath": "_content/zeiss",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
