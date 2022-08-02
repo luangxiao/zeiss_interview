@@ -2,4 +2,6 @@
 
 bin/
 
-obj/
+zeiss/obj/
+
+*.user
