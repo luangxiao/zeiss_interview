@@ -4,4 +4,4 @@ bin/
 
 zeiss/obj/
 
-*.user
+*.csproj.user
